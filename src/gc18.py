@@ -1,3 +1,53 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+GeneCounsel-AI: A Multilingual Pharmacogenetic Counseling Education Platform
+=========================================================================
+
+This module implements an AI-powered educational platform for training pharmacy students
+in pharmacogenetic counseling across multiple languages and therapeutic areas.
+
+Created as part of PharmTutorAI at Virginia Commonwealth University School of Pharmacy.
+
+Authors:
+    Dayanjan S. Wijesinghe, Ph.D. (Principal Investigator)
+    Lama Basalelah
+    Autumn Brenner
+    Krista Donohoe
+    Lauren M. Caldas
+    Suad Alshammari
+    Walaa Abu Rukbah
+    Monther Alsultan
+    Silas Contaifer
+    Kunal Modi
+
+Copyright:
+    Copyright (c) 2025 Dayanjan S. Wijesinghe
+    School of Pharmacy, Virginia Commonwealth University
+
+License:
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+Version:
+    1.0.0
+
+Contact:
+    Dayanjan S. Wijesinghe, Ph.D.
+    Department of Pharmacotherapy and Outcome Sciences
+    School of Pharmacy, Virginia Commonwealth University
+    PO Box 980533
+    Richmond, VA 23298-5048
+    Email: wijesinghes@vcu.edu
+
+This module is part of the PharmTutorAI's GeneCounsel-AI project, as described in:
+Basalelah et al. (2025). Gene Counsel AI: Bridging Domestic and Global Language
+Barriers in Pharmacy Education Through Large Language Model Implementation for
+Pharmacogenetic Counseling. PLOS Digital Health.
+"""
+
 from typing import Optional, List, Dict, Tuple
 from pathlib import Path
 from datetime import datetime
