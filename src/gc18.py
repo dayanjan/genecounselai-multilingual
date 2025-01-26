@@ -24,6 +24,7 @@ Authors:
 
 Copyright:
     Copyright (c) 2025 Dayanjan S. Wijesinghe
+    PharmTutorAI.com
     School of Pharmacy, Virginia Commonwealth University
 
 License:
