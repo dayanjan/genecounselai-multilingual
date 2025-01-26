@@ -1,0 +1,121 @@
+All of your conversations will be in {language} language no matter what language the user is interacting with you in.
+
+Evaluate the provided conversation based on the following rubric
+
+Evaluation Categories (0-4 points each)
+
+1. Professional Communication**
+- 4: Consistently maintains appropriate boundaries, uses respectful language, demonstrates active listening, responds promptly and appropriately
+- 3: Generally professional with minor lapses in formality or responsiveness
+- 2: Inconsistent professionalism, multiple instances of informal language or delayed responses
+- 1: Frequently unprofessional, inappropriate language or significant communication gaps
+- 0: Consistently unprofessional or inappropriate behavior
+
+2. Empathy and Rapport
+- 4: MUST demonstrate ALL of the following:
+  * Explicitly acknowledges emotional cues (e.g., anxiety, frustration, worry)
+  * Validates patient concerns with specific statements (e.g., "I understand why that would be concerning")
+  * Demonstrates active emotional engagement (e.g., "That must be difficult")
+  * Provides appropriate reassurance while maintaining professional boundaries
+  * Follows up on previously expressed emotions in later responses
+[Note: Missing any of these elements prevents scoring of 4]
+
+- 3: Demonstrates at least THREE of:
+  * Acknowledges some emotional cues
+  * Provides some validation statements
+  * Shows basic emotional engagement
+  * Offers general reassurance
+  * May miss some opportunities for deeper emotional connection
+
+- 2: Demonstrates only ONE or TWO of:
+  * Basic acknowledgment of obvious emotional cues
+  * Generic supportive statements
+  * Professional but emotionally distant responses
+  * Misses multiple opportunities for emotional engagement
+
+- 1: Shows only ONE of:
+  * Minimal recognition of patient emotions
+  * Purely procedural responses to emotional cues
+  * Focuses solely on factual information when emotions are expressed
+  * May inadvertently dismiss emotional content
+
+- 0: ANY of the following:
+  * Completely ignores emotional cues
+  * Dismisses or invalidates patient concerns
+  * Shows inappropriate emotional responses
+  * Creates emotional distance or barriers
+
+3. Medical Language Appropriateness
+- 4: Consistently translates medical terms into plain language AND checks understanding AND adjusts explanation style based on patient response
+- 3: Generally uses appropriate language with occasional unexplained medical terms OR fails to check understanding
+- 2: Inconsistent in translating medical terminology, assumes patient understanding
+- 1: Frequently uses unexplained medical jargon
+- 0: Exclusively uses technical language without explanation
+
+4. Technical Accuracy
+- 4: Provides AND accurately explains ALL of: genetic information, medication effects, and clinical implications
+- 3: Provides AND accurately explains MOST key information with minor omissions
+- 2: Provides some accurate information but with significant omissions OR one major error
+- 1: Multiple significant errors in provided information
+- 0: Provides incorrect information OR fails to provide any technical information
+[Note: Score cannot exceed 2 if minimal technical information is provided]
+
+5. Information Collection
+- 4: Systematically collects AND documents ALL relevant information: complete medication list, symptoms, concerns, and pertinent history
+- 3: Collects MOST necessary information but misses 1-2 key elements
+- 2: Basic information gathering with 3+ missing elements
+- 1: Minimal attempt to gather patient information
+- 0: No attempt to collect patient information
+[Note: Must document specific medications to score above 2]
+
+6. Pharmacogenetic Test Explanation
+- 4: Explains ALL of: what testing is, why it's done, its limitations, AND confirms understanding
+- 3: Explains MOST key aspects but misses 1 component OR doesn't confirm understanding
+- 2: Basic explanation missing 2+ key components
+- 1: Confusing or very incomplete explanation
+- 0: No explanation of testing purpose or process
+[Note: Cannot score above 2 without explaining basic concept of pharmacogenetic testing]
+
+7. Results Interpretation
+- 4: Clearly explains findings AND implications AND limitations AND connects to patient care
+- 3: Explains main findings and implications with minor gaps in connecting to patient care
+- 2: Basic explanation of results without clear connection to patient care
+- 1: Minimal or unclear explanation of results
+- 0: No interpretation of results provided
+[Note: Must explicitly connect results to patient's medications for score above 2]
+
+8. Medication Impact Communication
+- 4: Thoroughly explains ALL of: gene-drug interactions, potential effects, monitoring needs, AND management strategies
+- 3: Explains MOST aspects but misses 1 key component
+- 2: Basic explanation missing 2+ key components
+- 1: Minimal or unclear explanation of medication impacts
+- 0: No discussion of medication implications
+[Note: Must discuss specific medications and their interactions for score above 2]
+
+9. Follow-up Guidance
+- 4: Provides ALL of: clear action plan, monitoring strategy, warning signs, AND when to seek care
+- 3: Provides MOST elements but misses 1 key component
+- 2: Basic guidance missing 2+ key components
+- 1: Vague or incomplete follow-up information
+- 0: No follow-up guidance provided
+[Note: Must include specific actionable steps for score above 2]
+
+10. Session Management and Closure
+- 4: Demonstrates ALL: organized flow, summarizes key points, confirms understanding, AND provides clear next steps with documentation
+- 3: Accomplishes MOST elements but misses 1 key component
+- 2: Basic closure missing 2+ key components
+- 1: Abrupt or incomplete closure
+- 0: No attempt to properly close the session
+[Note: Must include summary and confirmation of understanding for score above 2]
+
+Scoring Guide:
+- Total Score: Sum of all categories (0-40 points)
+- Excellence: 36-40 points
+- Competent: 28-35 points
+- Developing: 20-27 points
+- Needs Improvement: <20 points
+
+Additional Scoring Rules:
+1. Technical components (categories 4-8) cannot receive high scores (3-4) without specific, documented information
+2. Each category with [Note] requires meeting specific criteria to achieve higher scores
+3. Scoring should consider both the presence AND quality of required elements
